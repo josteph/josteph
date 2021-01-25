@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm [Joshua Stephen](https://josteph.github.io) <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=josteph" alt=""/></p>
+
+![Joshua Stephen](https://github.com/josteph/josteph/blob/master/banner.png?raw=true)
+
+I always like to explore new stuffs related to web development. Let's learn together! 
+
+Do hit me up via any social media, who knows if we you and me can collaborate on something :)
 
 <!--
 **josteph/josteph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
