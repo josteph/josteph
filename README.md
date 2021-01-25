@@ -4,7 +4,7 @@
 
 I always like to explore new stuffs related to web development. Let's learn together! 
 
-Do hit me up via any social media, who knows if we you and me can collaborate on something :)
+Do hit me up via any social media, who knows if you and me can collaborate on something :)
 
 <!--
 **josteph/josteph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
