@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm [Joshua Stephen](https://josteph.github.io) <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=josteph" alt=""/></p>
 
-![Joshua Stephen](https://raw.githubusercontent.com/josteph/josteph/main/banner-white.png)
-
 I always like to explore new stuffs related to web development. Let's learn together! 
 
 Do hit me up via any social media, who knows if you and me can collaborate on something :)
