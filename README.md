@@ -2,7 +2,7 @@
 
 I always like to explore new stuffs related to web development. Let's learn together! 
 
-Do hit me up via [any social media available](https://josteph.github.io), who knows if we could collaborate on something :)
+Do hit me up via [any social media available](https://joshuastephen.com), who knows if we could collaborate on something :)
 
 <!--
 **josteph/josteph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
