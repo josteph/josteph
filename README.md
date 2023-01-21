@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Joshua Stephen](https://josteph.github.io) <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=josteph" alt=""/></p>
+### Hi there 👋 I'm [Joshua Stephen](https://joshuastephen.com) <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=josteph" alt=""/></p>
 
 I always like to explore new stuffs related to web development. Let's learn together! 
 
